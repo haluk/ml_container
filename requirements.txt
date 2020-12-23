@@ -1,0 +1,15 @@
+PyQt5
+cppimport
+ipdb
+jupyter
+numba
+orange3
+pandasql
+pomegranate
+pybind11
+pygraphviz
+python-language-server[all]
+scikit-learn
+seaborn
+tensorflow
+toolz
