@@ -1,4 +1,5 @@
 PyQt5
+SQLAlchemy
 cppimport
 ipdb
 jupyter
@@ -6,10 +7,13 @@ numba
 orange3
 pandasql
 pomegranate
+psycopg2
 pybind11
 pygraphviz
 python-language-server[all]
 scikit-learn
 seaborn
 tensorflow
+tensorflow-datasets
 toolz
+tqdm
