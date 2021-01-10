@@ -2,10 +2,12 @@ PyQt5
 SQLAlchemy
 black
 cppimport
+dask[complete]
 ipdb
 isort
 jupyterlab
 jupyterlab_code_formatter
+modin[all]
 nltk
 numba
 opencv-python
@@ -14,11 +16,14 @@ pandasql
 pomegranate
 psycopg2
 pybind11
+pydot
 pygraphviz
 python-language-server[all]==0.36.2
+ray
 scikit-learn
 seaborn
 tensorflow
 tensorflow-datasets
 toolz
 tqdm
+vaex
