@@ -8,5 +8,6 @@ services:
     volumes:
       - ./:/code
       - ./notebooks:/notebooks
+      - /tmp:/tmp
     ports:
       - "8888:8888"

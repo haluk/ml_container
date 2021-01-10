@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
 docker-compose build ml &> /dev/null
-exec docker-compose run --rm --no-deps -T ml pyls
+exec docker-compose run --name ml_python --rm --no-deps -T ml pyls
