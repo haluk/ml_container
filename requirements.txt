@@ -8,11 +8,13 @@ isort
 jupyterlab
 jupyterlab_code_formatter
 modin[all]
+multipledispatch
 nltk
 numba
 opencv-python
 orange3
 pandasql
+plotnine
 pomegranate
 psycopg2
 pybind11
